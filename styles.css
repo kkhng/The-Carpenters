@@ -94,9 +94,6 @@ html, body {
     background-color: rgb(100, 71, 9);
     color: white;
     padding: .25em 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
 
 .main-footer-container {
